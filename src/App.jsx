@@ -81,7 +81,7 @@ function App() {
     </div>
 
     <div className="hero-image">
-      <img src="/profile.jpeg" alt="Gayatri Gavhane" />
+     <img src="/myportfolio/profile.jpeg" alt="Gayatri Gavhane" />
     </div>
 
   </div>
