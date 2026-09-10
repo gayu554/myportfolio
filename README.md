@@ -111,7 +111,7 @@ https://gayu554.github.io/myportfolio/
 https://github.com/gayu554
 
 **LinkedIn:**  
-https://linkedin.com/in/gayatri-gavavhane-580101332
+https://linkedin.com/in/gayatri-gavhane-580101332
 
 **Email:**  
 gavhanegayatri554@gmail.com
