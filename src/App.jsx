@@ -221,128 +221,16 @@ function App() {
 
   <div className="projects-container">
 
-    {/* Project 1 */}
+    {/* Project 01 */}
     <div className="project-card">
       <div className="project-number">01</div>
-      <div className="project-icon">🤖</div>
-
-      <h3>SkillGap AI</h3>
-
-      <p>
-        An AI-powered career readiness platform that analyzes a user's
-        resume and target job description to identify skill gaps and
-        provide personalized learning roadmaps.
-      </p>
-
-      <div className="tech-stack">
-        <span>Python</span>
-        <span>AI</span>
-        <span>React</span>
-        <span>SQL</span>
-      </div>
-
-      <div className="project-buttons">
-        <a
-          href="https://github.com/"
-          target="_blank"
-          rel="noreferrer"
-          className="project-btn"
-        >
-          GitHub ↗
-        </a>
-
-        <a href="#" className="project-btn live">
-          Live Demo ↗
-        </a>
-      </div>
-    </div>
-
-
-    {/* Project 2 */}
-    <div className="project-card">
-      <div className="project-number">02</div>
-      <div className="project-icon">🛒</div>
-
-      <h3>E-Commerce Web Application</h3>
-
-      <p>
-        A full-stack e-commerce application with product management,
-        shopping cart, checkout, user authentication and role-based
-        admin access.
-      </p>
-
-      <div className="tech-stack">
-        <span>Java</span>
-        <span>Spring Boot</span>
-        <span>MySQL</span>
-        <span>HTML/CSS/JS</span>
-      </div>
-
-      <div className="project-buttons">
-        <a
-          href="https://github.com/"
-          target="_blank"
-          rel="noreferrer"
-          className="project-btn"
-        >
-          GitHub ↗
-        </a>
-
-        <a href="#" className="project-btn live">
-          Live Demo ↗
-        </a>
-      </div>
-    </div>
-
-
-    {/* Project 3 */}
-    <div className="project-card">
-      <div className="project-number">03</div>
-      <div className="project-icon">📋</div>
-
-      <h3>Task Management System</h3>
-
-      <p>
-        A task management application that allows users to create,
-        update, delete and track tasks with authentication and
-        authorization.
-      </p>
-
-      <div className="tech-stack">
-        <span>Java</span>
-        <span>Spring Boot</span>
-        <span>REST API</span>
-        <span>MySQL</span>
-      </div>
-
-      <div className="project-buttons">
-        <a
-          href="https://github.com/"
-          target="_blank"
-          rel="noreferrer"
-          className="project-btn"
-        >
-          GitHub ↗
-        </a>
-
-        <a href="#" className="project-btn live">
-          Live Demo ↗
-        </a>
-      </div>
-    </div>
-
-
-    {/* Project 4 */}
-    <div className="project-card">
-      <div className="project-number">04</div>
       <div className="project-icon">💼</div>
 
       <h3>Java Job Portal</h3>
 
       <p>
-        A console-based job portal built with Java and MySQL where
-        students can register, view jobs and apply for suitable
-        opportunities.
+        A Java and MySQL based job portal where students can register,
+        search available jobs and apply for suitable opportunities.
       </p>
 
       <div className="tech-stack">
@@ -354,16 +242,107 @@ function App() {
 
       <div className="project-buttons">
         <a
-          href="https://github.com/"
+          href="https://github.com/gayu554/JobPortalJava"
           target="_blank"
           rel="noreferrer"
           className="project-btn"
         >
           GitHub ↗
         </a>
+      </div>
+    </div>
 
-        <a href="#" className="project-btn live">
-          Live Demo ↗
+
+    {/* Project 02 */}
+    <div className="project-card">
+      <div className="project-number">02</div>
+      <div className="project-icon">🏦</div>
+
+      <h3>Bank Management System</h3>
+
+      <p>
+        A Java based banking application connected with MySQL for
+        account creation, deposits and balance management.
+      </p>
+
+      <div className="tech-stack">
+        <span>Java</span>
+        <span>JDBC</span>
+        <span>MySQL</span>
+        <span>Swing</span>
+      </div>
+
+      <div className="project-buttons">
+        <a
+          href="https://github.com/gayu554/BankManagementSystem"
+          target="_blank"
+          rel="noreferrer"
+          className="project-btn"
+        >
+          GitHub ↗
+        </a>
+      </div>
+    </div>
+
+
+    {/* Project 03 */}
+    <div className="project-card">
+      <div className="project-number">03</div>
+      <div className="project-icon">📋</div>
+
+      <h3>Task Management System</h3>
+
+      <p>
+        A task management application with authentication and task
+        management features including creating, updating and tracking tasks.
+      </p>
+
+      <div className="tech-stack">
+        <span>Java</span>
+        <span>Spring Boot</span>
+        <span>REST API</span>
+        <span>MySQL</span>
+      </div>
+
+      <div className="project-buttons">
+        <a
+          href="https://github.com/gayu554/task-management-system"
+          target="_blank"
+          rel="noreferrer"
+          className="project-btn"
+        >
+          GitHub ↗
+        </a>
+      </div>
+    </div>
+
+
+    {/* Project 04 */}
+    <div className="project-card">
+      <div className="project-number">04</div>
+      <div className="project-icon">🛒</div>
+
+      <h3>ShopEase E-Commerce</h3>
+
+      <p>
+        An e-commerce web application with product browsing, shopping
+        cart and order management features.
+      </p>
+
+      <div className="tech-stack">
+        <span>HTML</span>
+        <span>CSS</span>
+        <span>JavaScript</span>
+      </div>
+
+      <div className="project-buttons">
+        <a
+          href="https://github.com/gayu554/ShopEase-E-Commerce"
+          target="_blank"
+          rel="noreferrer"
+          className="project-btn"
+        >
+          GitHub ↗
         </a>
       </div>
     </div>
