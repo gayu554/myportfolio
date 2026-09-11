@@ -30,7 +30,7 @@ I enjoy learning new technologies, building projects, and continuously improving
 ## 🛠️ Technical Skills
 
 | Category | Technologies |
-|---|---|
+|----------|--------------|
 | Programming | Java, Python, C, C++ |
 | Web Development | HTML, CSS, JavaScript, React |
 | Backend | Spring Boot, JDBC, REST API |
@@ -43,36 +43,53 @@ I enjoy learning new technologies, building projects, and continuously improving
 ## 🚀 Projects
 
 ### 💼 Java Job Portal
+
 A Java and MySQL based job portal designed to allow students to register, search available jobs, and apply for suitable opportunities.
 
 **Technologies:** Java, JDBC, MySQL, OOP
 
+🔗 **Repository:**  
+https://github.com/gayu554/JobPortalJava
+
 ---
 
 ### 🏦 Bank Management System
+
 A Java-based banking application with database connectivity for managing customer accounts and basic banking operations.
 
 **Technologies:** Java, JDBC, MySQL, Swing
 
----
-
-### 🤖 SkillGap AI
-An AI-powered career readiness platform designed to analyze resumes and job requirements, identify skill gaps, and provide personalized learning guidance.
-
-**Technologies:** Python, FastAPI, React, MongoDB
+🔗 **Repository:**  
+https://github.com/gayu554/BankManagementSystem
 
 ---
 
 ### 📋 Task Management System
+
 A task management application designed to manage tasks with authentication, authorization, task status tracking, and CRUD operations.
 
 **Technologies:** Java, Spring Boot, REST API, MySQL
+
+🔗 **Repository:**  
+https://github.com/gayu554/task-management-system
+
+---
+
+### 🛒 ShopEase E-Commerce
+
+A web-based e-commerce project focused on product browsing and online shopping functionality.
+
+**Technologies:** HTML, CSS, JavaScript
+
+🔗 **Repository:**  
+https://github.com/gayu554/ShopEase-E-Commerce
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Engineering — Information Technology**  
+**Bachelor of Engineering — Information Technology**
+
 Pravara Rural Engineering College, Loni  
 Savitribai Phule Pune University  
 **2024 – 2028**
@@ -92,9 +109,10 @@ Savitribai Phule Pune University
 
 ## 📜 Certifications
 
-- **NPTEL — Programming in Java**
-  - Elite Certificate
-  - Score: 77%
+### NPTEL — Programming in Java
+
+- **Certificate:** Elite
+- **Score:** 77%
 
 ---
 
